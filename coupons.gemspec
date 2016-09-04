@@ -24,6 +24,7 @@ Gem::Specification.new do |spec|
   spec.add_dependency 'autoprefixer-rails'
   spec.add_dependency 'sass-rails'
   spec.add_dependency 'page_meta'
+  spec.add_dependency 'paginate'
 
   spec.add_development_dependency 'bundler'
   spec.add_development_dependency 'paginate'
